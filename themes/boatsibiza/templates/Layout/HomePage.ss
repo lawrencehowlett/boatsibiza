@@ -5,7 +5,7 @@
 				<div class="row">
 					<div class="col-md-5">
 						<h1>The real ibiza boating experience</h1>
-						<p style="font-size:1.4em">Boats Ibiza is now essentially the number one resource in Ibiza and Formentera for Ibiza boat hire, and water-sports.</p>
+						<p style="font-size:1.4em">Boats Ibiza is now essentially the number one resource in Ibiza and Formentera for Ibiza boat hire, and water-sports. We are proud not only to be boat owners, but to also exclusively manage many other boats.</p>
 							<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#quickenquiry">QUICK ENQUIRY</button>
 							<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#bestprice">BEST PRICE GUARANTEED</button>
 						</div>
